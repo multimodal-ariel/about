@@ -11,6 +11,11 @@ ARIEL is funded by the National Institutes of Health (NIH) under Other Transacti
 - [Junier Oliva](https://sites.google.com/cs.unc.edu/joliva/home) (Investigator), UNC
 - [Hongtu Zhu](https://sph.unc.edu/adv_profile/hongtu-zhu-phd/) (Investigator), UNC
 
+## Table of Contents
+- [Background](#background)
+- [Software](#software)
+- [Publications](#main-publications)
+
 ## Background
 
 Autoimmune diseases affect 1 in 10 people. Commonly, patients needlessly suffer for years due to delays in diagnosis and referral delays to specialists. Systemic lupus erythematosus (SLE) is a classic example due to its nonspecific symptoms and potential to mimic other diseases. It affects women 9 to 1 with average diagnostic delays of over 5 years, increasing the chances of life-limiting end-organ damage. A diagnosis typically requires an experienced rheumatologist to carefully consider and integrate various data sources. Our project develops technology that will allow 1) using many different datatypes (e.g., electronic health records, full-body imaging, clinical measures, and tabular data); 2) adding data sources to the multimodal model as needed; 3) supporting missing modalities by cross-modal generative learning; 4) providing inherent end-to-end interpretable results; and 5) patient-specific disease predictions and patient-personalized multimodal information acquisition plans. While motivated by lupus diagnosis our approaches are often generally applicable to multimodal learning. They target significantly earlier diagnoses for autoimmune diseases, strategies to recommend suitable additional diagnostic tests, and the ability to identify patients at greatest risk for the worst outcomes for which more aggressive treatments may be recommended.
@@ -32,6 +37,15 @@ The project has developed many different software packages geared at lupus diagn
 | [Radiology feature extraction](https://github.com/multimodal-ariel/radiology-feature-extraction) | Image feature extraction of 2D and 3D images |
 | [Multimodal atlas building](https://github.com/multimodal-ariel/atlas-builder) (currently private) | An atlas building approach for multimodal image data |
 
+## Main publications
+
+### Image Analysis
+
+| Title | Authors | Venue | Year |
+|-------|---------|-------|------|
+| [Uncertainty-Aware Spatio-Semantic Contextual Prompts for Multimodal Medical Segmentation](https://soumitri2001.github.io/assets/uncertainty_aware_spatio_semantic_contextual_prompts_miccai26_preprint.pdf) | Chattopadhyay, Soumitri and Demir, Basar and Niethammer, Marc | MICCAI | 2026 | 
+| [On the Robustness of Foundational 3D Medical Image Segmentation Models Against Imprecise Visual Prompts](https://ieeexplore.ieee.org/abstract/document/11515686) | Chattopadhyay, Soumitri and Demir, Basar and Niethammer, Marc | ISBI | 2026 |
+| [How Useful Are Vision Foundation Model Features for Out-of-the-Box Disease Progression Prediction?](https://openaccess.thecvf.com/content/CVPR2026W/CV4Clinic2026/papers/Demir_How_Useful_Are_Vision_Foundation_Model_Features_for_Out-of-the-Box_Disease_CVPRW_2026_paper.pdf) | Demir, Basar and Chattopadhyay, Soumitri and Greer, Hasting, and Chen Boqi and Niethammer, Marc | CVPR Workshop | 2026 |
 
 
 
