@@ -1,7 +1,7 @@
-# Multimodal Automated Reasoning and Interpretation for Early Lupus detection
+# Multimodal Automated Reasoning and Interpretation for Early Lupus detection (ARIEL)
 
-mm-ARIEL is the general organizaton for the NIH sponsored project on
+ARIEL is funded by the National Institutes of Health (NIH) under Other Transactions [1OT2OD038045-01: Unified and fair multimodal representation learning for autoimmune diseases](https://reporter.nih.gov/search/nwCLPGKJck-f8g6Jr68IWQ/project-details/11091113). The views and conclusions contained in our work and related publications are those of the authors and should not be interpreted as representing official policies, either expressed or implied, of the NIH.
 
-*Unified and fair multimodal representation learning for autoimmune diseases* (1OT2OD038045-01).
+## Background
 
-See [here](https://reporter.nih.gov/search/nwCLPGKJck-f8g6Jr68IWQ/project-details/11091113) for a general description of the project. 
+Autoimmune diseases affect 1 in 10 people. Commonly, patients needlessly suffer for years due to delays in diagnosis and referral delays to specialists. Systemic lupus erythematosus (SLE) is a classic example due to its nonspecific symptoms and potential to mimic other diseases. It affects women 9 to 1 with average diagnostic delays of over 5 years, increasing the chances of life-limiting end-organ damage. A diagnosis typically requires an experienced rheumatologist to carefully consider and integrate various data sources. Our project develops technology that will allow 1) using many different datatypes (e.g., electronic health records, full-body imaging, clinical measures, and tabular data); 2) adding data sources to the multimodal model as needed; 3) supporting missing modalities by cross-modal generative learning; 4) providing inherent end-to-end interpretable results; and 5) patient-specific disease predictions and patient-personalized multimodal information acquisition plans. While motivated by lupus diagnosis our approaches are often generally applicable to multimodal learning. They target significantly earlier diagnoses for autoimmune diseases, strategies to recommend suitable additional diagnostic tests, and the ability to identify patients at greatest risk for the worst outcomes for which more aggressive treatments may be recommended.
