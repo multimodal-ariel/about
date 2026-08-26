@@ -40,6 +40,8 @@ The project has developed many different software packages geared at lupus diagn
 | [Adaptive Modality Token Re-balancing (AMC)](https://github.com/multimodal-ariel/amc) | Adaptive modality fusion for multimodal learning |
 | [YODO](https://github.com/multimodal-ariel/yodo) | A single trained model supporting adjustable accuracy-fairness trade-offs at inference time |
 | [Multi-organ lupus prediction](https://github.com/multimodal-ariel/multi-organ-lupus-prediction) | Organ-aware prediction from longitudinal laboratory data for early lupus detection |
+| [Medical hierarchy-aware multimodal unlearning](https://github.com/multimodal-ariel/MedForget) | a hierarchy-aware multimodal unlearning benchmark and algorithm |
+
 
 ## Main publications
 
@@ -59,3 +61,5 @@ The project has developed many different software packages geared at lupus diagn
 | [Generate, Then Retrieve: Addressing Missing Modalities in Multimodal Learning via Generative AI and MoE](https://openreview.net/forum?id=aUpA5gulZ4) | Yun, Sukwon and Xin, Jiayi and Choi, Inyoung and Peng, Jie and Ding, Ying and Long, Qi and Chen, Tianlong | GenAI4Health at AAAI | 2025 |
 | [Modalities Contribute Unequally: Enhancing Medical Multi-modal Learning through Adaptive Modality Token Re-balancing](https://proceedings.mlr.press/v267/peng25a.html) | Peng, Jie and Ballard, Jenna and Zhang, Mohan and Yun, Sukwon and Xin, Jiayi and Long, Qi and Zhang, Yanyong and Chen, Tianlong | ICML | 2025 |
 | [You Only Debias Once: Towards Flexible Accuracy-Fairness Trade-offs at Inference Time](https://proceedings.mlr.press/v280/han25a.html) | Han, Xiaotian and Chen, Tianlong and Zhou, Kaixiong and Jiang, Zhimeng and Wang, Zhangyang and Hu, Xia | CPAL | 2025 |
+| [DART: Leveraging Multi-Agent Disagreement for Tool Recruitment in Multimodal Reasoning](https://aclanthology.org/2026.eacl-long.253/) | Sivakumaran, Nithin and Chen, Justin and Wan, David and Zhang, Yue and Yoon, Jaehong and Stengel-Eskin, Elias and Bansal, Mohit | EACL | 2026 |
+| [Hierarchy-Aware Multimodal Unlearning for Medical AI](https://openreview.net/forum?id=TVSIhLqIkf) | Wu, Fengli and Patil, Vaidehi and Yoon, Jaehong and Zhang, Yue and Bansal, Mohit | TMLR | 2026 |
