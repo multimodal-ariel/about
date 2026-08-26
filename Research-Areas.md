@@ -48,7 +48,7 @@ For 2D X-rays specifically, [XRayFeatures](https://github.com/multimodal-ariel/X
 
 **Central question:** How do we build representations that jointly encode imaging, clinical text, and structured EHR data in a way that is both powerful and fair?
 
-This theme covers VLM fine-tuning ([qwen2-vl-finetune](https://github.com/multimodal-ariel/qwen2-vl-finetune)), mixture-of-experts architectures ([moe-retriever](https://github.com/multimodal-ariel/moe-retriever), [flex-moe](https://github.com/multimodal-ariel/flex-moe)) for handling heterogeneous modalities, and recurrent multimodal reasoning ([multimodal-recurrent-reasoning](https://github.com/multimodal-ariel/multimodal-recurrent-reasoning)).
+This theme covers VLM fine-tuning ([qwen2-vl-finetune](https://github.com/multimodal-ariel/qwen2-vl-finetune)), mixture-of-experts architectures ([moe-retriever](https://github.com/multimodal-ariel/moe-retriever), [flex-moe](https://github.com/multimodal-ariel/flex-moe)) for handling heterogeneous modalities, recurrent multimodal reasoning ([multimodal-recurrent-reasoning](https://github.com/multimodal-ariel/multimodal-recurrent-reasoning)), adaptive multimodal fusion ([amc](https://github.com/multimodal-ariel/amc)), and organ-aware prediction from longitudinal EHR measurements ([multi-organ-lupus-prediction](https://github.com/multimodal-ariel/multi-organ-lupus-prediction)).
 
 Fairness is a core constraint: representations must perform consistently across sex, race, and age groups, given lupus's uneven demographic distribution.
 

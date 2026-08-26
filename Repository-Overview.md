@@ -56,10 +56,12 @@ VLM fine-tuning, mixture-of-experts architectures, and multimodal reasoning.
 | [moe-retriever](https://github.com/multimodal-ariel/moe-retriever) | Mixture-of-experts retrieval model for multimodal medical data. |
 | [flex-moe](https://github.com/multimodal-ariel/flex-moe) | Flexible mixture-of-experts architecture. |
 | [freebar](https://github.com/multimodal-ariel/freebar) | Python utility related to representation learning or evaluation. |
-| [yodo](https://github.com/multimodal-ariel/yodo) | Python research code (purpose TBD — check README). |
+| [yodo](https://github.com/multimodal-ariel/yodo) | Supports flexible accuracy-fairness trade-offs at inference time using a single trained model. |
 | [multimodal-recurrent-reasoning](https://github.com/multimodal-ariel/multimodal-recurrent-reasoning) | Recurrent reasoning over multimodal inputs. |
 | [afa-adni-oai](https://github.com/multimodal-ariel/afa-adni-oai) | Adaptive feature aggregation applied to ADNI and OAI datasets. |
 | [template-afa](https://github.com/multimodal-ariel/template-afa) | Template/scaffold for adaptive feature aggregation (AFA) projects. |
+| [amc](https://github.com/multimodal-ariel/amc) | Adaptive modality fusion for multimodal learning. |
+| [multi-organ-lupus-prediction](https://github.com/multimodal-ariel/multi-organ-lupus-prediction) | Organ-aware prediction from longitudinal laboratory data for early lupus detection. |
 
 ---
 

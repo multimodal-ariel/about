@@ -25,7 +25,7 @@ mm-ARIEL spans **five main research themes** across ~30 repositories:
 1. **Clinical Imaging Pipeline** — agentic processing of CT/MRI/X-ray data from the UNC Clinical Data Warehouse (CDW)
 2. **Machine Unlearning & Privacy** — removing sensitive information from multimodal medical AI models
 3. **3D Medical Image Segmentation** — foundation model adaptation and atlas-driven segmentation
-4. **Multimodal Representation Learning** — MoE architectures, VLM fine-tuning, recurrent reasoning
+4. **Multimodal Representation Learning** — MoE architectures, VLM fine-tuning, recurrent reasoning, adaptive multimodal fusion, and organ-aware EHR prediction
 5. **Data & Cohort Infrastructure** — OMOP CDW cohorts, UK Biobank, All of Us, TCGA
 
 ---
