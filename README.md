@@ -28,7 +28,7 @@ The project has developed many different software packages geared at lupus diagn
 |----------|-------------|
 | [SLICC](https://github.com/multimodal-ariel/SLICC) (currently private) | Automatic computation of SLICC score |
 | Baseline prediction models (link to be added) | Simple machine learning approaches using OMOP data for early lupus prediction |
-| [Active feature acquisition (AFA)](https://github.com/multimodal-ariel/afa-adni-oai) | Approaches to recommend what tests to request |
+| [NOCTA](https://github.com/multimodal-ariel/afa-adni-oai) | Approaches to recommend what tests to request |
 | [Template-based AFA](https://github.com/multimodal-ariel/template-afa) | AFA framework learning a library of informative feature subsets |
 | [Multiple debating and collaborating VLMs](https://github.com/multimodal-ariel/multi-agent-detection-cdw) | A flexible approach to reasoning via multiple vision language models |
 | [Multimodal medical segmentation](https://github.com/multimodal-ariel/SpatioSemanticMedMICS) | A robust in-context segmentation approach for multimodal image segmentation |
