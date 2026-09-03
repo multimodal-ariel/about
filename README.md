@@ -30,7 +30,7 @@ The project has developed many different software packages geared at lupus diagn
 | Baseline prediction models (link to be added) | Simple machine learning approaches using OMOP data for early lupus prediction |
 | [NOCTA](https://github.com/multimodal-ariel/afa-adni-oai) | Approaches to recommend what tests to request |
 | [Template-based AFA](https://github.com/multimodal-ariel/template-afa) | AFA framework learning a library of informative feature subsets |
-| [Multimodal reasoning with dynamic multi-Expert aggregation](https://github.com/multimodal-ariel/mexa) | A general model to aggregate multi-expert from different modalities |
+| [Multimodal reasoning with dynamic multi-expert aggregation](https://github.com/multimodal-ariel/mexa) | A general model to aggregate multi-expert from different modalities |
 | [Multiple debating and collaborating VLMs](https://github.com/multimodal-ariel/multi-agent-detection-cdw) | A flexible approach to reasoning via multiple vision language models |
 | [Multimodal medical segmentation](https://github.com/multimodal-ariel/SpatioSemanticMedMICS) | A robust in-context segmentation approach for multimodal image segmentation |
 | [Multimodal image biomarker extraction](https://github.com/multimodal-ariel/unified-medical-imaging-pipeline) | Unified processing of large-scale heterogeneous clinical imaging data |
