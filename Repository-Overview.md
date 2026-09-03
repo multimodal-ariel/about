@@ -75,7 +75,7 @@ Dataset construction, cohort documentation, and EHR data access.
 | [UKB_AllofUs](https://github.com/multimodal-ariel/UKB_AllofUs) | Analysis notebooks for UK Biobank and All of Us datasets. |
 | [tcga](https://github.com/multimodal-ariel/tcga) | Analysis notebooks for TCGA (The Cancer Genome Atlas) data. |
 | [eular-acl2019](https://github.com/multimodal-ariel/eular-acl2019) | Code from EULAR / ACL 2019 work on clinical NLP for rheumatology. |
-| [SLICC](https://github.com/multimodal-ariel/SLICC) | Code related to SLICC (Systemic Lupus International Collaborating Clinics) criteria or scoring. |
+| [SLICC](https://github.com/multimodal-ariel/SLICC-public) | Code related to SLICC (Systemic Lupus International Collaborating Clinics) criteria or scoring. |
 
 ---
 
