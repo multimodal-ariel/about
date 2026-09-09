@@ -28,6 +28,7 @@ The project has developed many different software packages geared at lupus diagn
 |----------|-------------|
 | [SLICC](https://github.com/multimodal-ariel/SLICC-public) | Automatic computation of SLICC score |
 | [Baseline prediction models](https://github.com/multimodal-ariel/lupus-baseline-prediction) | Simple machine learning approaches using OMOP data for early lupus prediction |
+| Lupus imaging phenotyping (release in preparation, expected 2026-09-30) | Organ-specific radiomic analysis of hand X-ray, chest X-ray and abdominal CT for lupus differential diagnosis and organ-involvement phenotyping |
 | [NOCTA](https://github.com/multimodal-ariel/afa-adni-oai) | Approaches to recommend what tests to request |
 | [Template-based AFA](https://github.com/multimodal-ariel/template-afa) | AFA framework learning a library of informative feature subsets |
 | [Multimodal reasoning with dynamic multi-expert aggregation](https://github.com/multimodal-ariel/mexa) | A general model to aggregate multi-expert from different modalities |
@@ -53,8 +54,15 @@ The project has developed many different software packages geared at lupus diagn
 | [Uncertainty-Aware Spatio-Semantic Contextual Prompts for Multimodal Medical Segmentation](https://soumitri2001.github.io/assets/uncertainty_aware_spatio_semantic_contextual_prompts_miccai26_preprint.pdf) | Chattopadhyay, Soumitri and Demir, Basar and Niethammer, Marc | MICCAI | 2026 | 
 | [On the Robustness of Foundational 3D Medical Image Segmentation Models Against Imprecise Visual Prompts](https://ieeexplore.ieee.org/abstract/document/11515686) | Chattopadhyay, Soumitri and Demir, Basar and Niethammer, Marc | ISBI | 2026 |
 | [How Useful Are Vision Foundation Model Features for Out-of-the-Box Disease Progression Prediction?](https://openaccess.thecvf.com/content/CVPR2026W/CV4Clinic2026/papers/Demir_How_Useful_Are_Vision_Foundation_Model_Features_for_Out-of-the-Box_Disease_CVPRW_2026_paper.pdf) | Demir, Basar and Chattopadhyay, Soumitri and Greer, Hasting, and Chen Boqi and Niethammer, Marc | CVPR Workshop | 2026 |
-| [Mapping Rare Protein-Coding Variants on Multi-Organ Imaging Traits](https://doi.org/10.1038/s41467-025-67431-y) | Fan, Yijun and Chen, Jie and Fan, Zirui and Chirinos, Julio and Stein, Jason L. and Sullivan, Patrick F. and Wang, Rujin and Nadig, Ajay and Zhang, David Y. and Huang, Shuai and Jiang, Zhiwen and Guan, Peter Yi and Qian, Xinjie and Li, Ting and Li, Haoyue and Sun, Zehui and Ritchie, Marylyn D. and O'Brien, Joan M. and Witschey, Walter and Rader, Daniel J. and Li, Tengfei and Zhu, Hongtu and Zhao, Bingxin | Nature Communications | 2025 |
+| [Mapping Rare Protein-Coding Variants on Multi-Organ Imaging Traits](https://doi.org/10.1038/s41467-025-67431-y) | Fan, Yijun and Chen, Jie and Fan, Zirui and Chirinos, Julio and Stein, Jason L. and Sullivan, Patrick F. and Wang, Rujin and Nadig, Ajay and Zhang, David Y. and Huang, Shuai and Jiang, Zhiwen and Guan, Peter Yi and Qian, Xinjie and Li, Ting and Li, Haoyue and Sun, Zehui and Ritchie, Marylyn D. and O'Brien, Joan M. and Witschey, Walter and Rader, Daniel J. and Li, Tengfei and Zhu, Hongtu and Zhao, Bingxin | Nature Communications | 2026 |
 | [Artificial Intelligence in Image-Based Cardiovascular Disease Analysis](https://doi.org/10.1146/annurev-biodatasci-092624-111837) | Wang, Xin and Hu, Mingcheng and Tsao, Connie W. and Zhu, Hongtu | Annual Review of Biomedical Data Science | 2026 |
+
+#### Preprints
+
+| Title | Authors | Status | Year |
+|-------|---------|--------|------|
+| [Causal Inference in Biomedical Imaging via Functional Linear Structural Equation Models](https://arxiv.org/abs/2601.20610) | Li, Ting and Fan, Ethan and Li, Tengfei and Zhu, Hongtu | arXiv preprint | 2026 |
+| [HCDPD: A Heterogeneous Causal Framework for Disease Pattern Detection in Medical Imaging](https://doi.org/10.1101/2025.04.15.25325904) | Liu, Rongjie and Shi, Chengchun and Song, Rui and Niethammer, Marc and Li, Tengfei and Zhu, Hongtu | medRxiv preprint | 2025 |
 
 ### Multimodal Learning and Fairness
 
