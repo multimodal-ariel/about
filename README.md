@@ -28,7 +28,6 @@ The project has developed many different software packages geared at lupus diagn
 |----------|-------------|
 | [SLICC](https://github.com/multimodal-ariel/SLICC-public) | Automatic computation of SLICC score |
 | [Baseline prediction models](https://github.com/multimodal-ariel/lupus-baseline-prediction) | Simple machine learning approaches using OMOP data for early lupus prediction |
-| Lupus imaging phenotyping (release in preparation, expected 2026-09-30) | Organ-specific radiomic analysis of hand X-ray, chest X-ray and abdominal CT for lupus differential diagnosis and organ-involvement phenotyping |
 | [NOCTA](https://github.com/multimodal-ariel/afa-adni-oai) | Approaches to recommend what tests to request |
 | [Template-based AFA](https://github.com/multimodal-ariel/template-afa) | AFA framework learning a library of informative feature subsets |
 | [Multimodal reasoning with dynamic multi-expert aggregation](https://github.com/multimodal-ariel/mexa) | A general model to aggregate multi-expert from different modalities |
