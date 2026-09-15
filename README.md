@@ -46,6 +46,12 @@ The project has developed many different software packages geared at lupus diagn
 
 ## Main publications
 
+### Community Engagement
+| Title | Authors | Venue | Year |
+|-------|---------|-------|------|
+| [Ttitle HERE](LINK HERE) | Authors last, first separated by comma| Venue | Year | 
+
+
 ### Image Analysis
 
 | Title | Authors | Venue | Year |
