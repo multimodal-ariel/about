@@ -86,5 +86,5 @@ The project has developed many different software packages geared at lupus diagn
 
 | Title | Authors | Venue | Year |
 |-------|---------|-------|------|
-| [NOCTA: Non-Greedy Objective Cost-Tradeoff Acquisition for Longitudinal Data](https://arxiv.org/abs/2507.12412) | Dinh, Dzung and Chen, Boqi and Qu, Yunni and Niethammer, Marc and Oliva, Junier | arXiv | 2026 |
-| [Information Templates: A New Paradigm for Intelligent Active Feature Acquisition](https://arxiv.org/abs/2508.18380) | Huang, Hung-Tien and Dinh, Dzung and Oliva, Junier B. | arXiv | 2026 |
+| Contrastive Nonmyopic Objective Cost-Tradeoff Acquisition for Longitudinal Data| Dinh, Dzung and Chen, Boqi and Qu, Yunni and Niethammer, Marc and Oliva, Junier | NeurIPS | 2026 |
+| [Information Templates: A New Paradigm for Intelligent Active Feature Acquisition](https://arxiv.org/abs/2508.18380) | Huang, Hung-Tien and Dinh, Dzung and Oliva, Junier B. | NeurIPS | 2026 |
